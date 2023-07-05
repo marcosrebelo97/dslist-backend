@@ -23,6 +23,7 @@
   - Maven
   - H2 Database
   - PostgreSQL
-  - ORM
+  - Ambiente local com Docker Compose
+  - Processo de deploy: CI/CD
   - Implantação Back-end: Railway
   - Implantação Banco de Dados: PostgreSQL | DBeaver
