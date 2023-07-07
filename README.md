@@ -23,7 +23,7 @@
     | GET   | Games By Lists  | Retorna os jogos que pertencem a um gênero específico, com base no seu ID |
     | POST  | List Replacement  | Permite que o usuário organize a ordem da lista de jogos de acordo com sua preferência |
 
-    ***Obs: após a requisição `List Replacement` ser concluída corretamente, obtendo o código de resposta 200, é possível verificar no endpoint `GET By Lists` as alterações realizadas nas posições dos jogos na lista disponível.***
+    > Obs: após a requisição **`List Replacement`** ser concluída corretamente, obtendo o código de resposta 200, é possível verificar no endpoint **`GET By Lists`** as alterações realizadas nas posições dos jogos na lista disponível.
     
 
 ## Tecnologias | Implantação em produção
