@@ -29,7 +29,8 @@
 ## Tecnologias | Implantação em produção
   - Java (JDK 17)
   - Spring Boot
-  - JPA / Hibernate
+  - Spring Data JPA
+  - Spring Boot Web
   - Maven
   - H2 Database
   - PostgreSQL
