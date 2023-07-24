@@ -1,6 +1,7 @@
 <h2 align="center">DSList - Backend</h2>
 
-  - A aplicação é uma coleção de jogos eletrônicos que permite aos usuários realizarem pesquisas e encontrar informações sobre diferentes jogos listados. As buscas podem ser realizadas com base no gênero e na classificação dos jogos. Além disso, possui a funcionalidade de reorganizar a lista de jogos de acordo com suas preferências.
+  - Descrição:
+    A aplicação é uma coleção de jogos eletrônicos que permite aos usuários realizarem pesquisas e encontrar informações sobre diferentes jogos listados. As buscas podem ser realizadas com base no gênero e na classificação dos jogos. Além disso, possui a funcionalidade de reorganizar a lista de jogos de acordo com suas preferências.
 
   - ### Modelo Conceitual:
 
@@ -10,8 +11,8 @@
 
     ![image](https://github.com/marcosrebelo97/dslist-backend/assets/37541973/532c5180-f13d-4ef0-8003-7e14639e6f0d)
 
-  - ### Postman Collection (passo a passo):
-  
+  - ### Postman Collection:
+    ##### Todas as requisições estão disponíveis para testes, feedbacks e afins, clique no botão abaixo.
      [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/19986209-ccfc096a-da53-4a02-bf95-9c1e23085543?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D19986209-ccfc096a-da53-4a02-bf95-9c1e23085543%26entityType%3Dcollection%26workspaceId%3Df3ebd102-7eba-4911-8348-205a6bbb21c6#?env%5BDSList%5D=W3sia2V5IjoiaG9zdCIsInZhbHVlIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQifV0=)
 
   - ### Games Endpoints RESTs API:
@@ -38,3 +39,12 @@
   - Processo de deploy: CI/CD
   - Implantação Back-end: Railway
   - Implantação Banco de Dados: PostgreSQL | DBeaver
+
+___
+
+  - ### Motivação:
+    Este projeto faz parte dos meus estudos práticos sobre back-end, então, ficarei contente se você me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar que possa me tornar um desenvolvedor melhor.
+
+    E-mail: [marcosrebelo9@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+    Conecte-se comigo no [Linkedln](https://www.linkedin.com/in/marcos-guerreiro-rebelo/)
