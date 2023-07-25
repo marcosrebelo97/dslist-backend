@@ -1,6 +1,6 @@
 <h2 align="center">DSList - Backend</h2>
 
-  - Descrição:
+  - ### Descrição:
     A aplicação é uma coleção de jogos eletrônicos que permite aos usuários realizarem pesquisas e encontrar informações sobre diferentes jogos listados. As buscas podem ser realizadas com base no gênero e na classificação dos jogos. Além disso, possui a funcionalidade de reorganizar a lista de jogos de acordo com suas preferências.
 
   - ### Modelo Conceitual:
