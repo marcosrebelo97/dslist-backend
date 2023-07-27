@@ -23,7 +23,7 @@
   - ### Endpoints
     A seguir, estão listados os principais endpoints da API com suas respectivas funcionalidades:
 
-      - Endpoint: /games
+      - #### Endpoint: ``{/games}``
          
     | Rest  | Request         | Função |
     |-------|-----------------| ------- |
