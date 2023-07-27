@@ -40,13 +40,19 @@
      [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/19986209-ccfc096a-da53-4a02-bf95-9c1e23085543?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D19986209-ccfc096a-da53-4a02-bf95-9c1e23085543%26entityType%3Dcollection%26workspaceId%3Df3ebd102-7eba-4911-8348-205a6bbb21c6#?env%5BDSList%5D=W3sia2V5IjoiaG9zdCIsInZhbHVlIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQifV0=)
 
   - ### Instruções para Executar
+    - Pré-Requisito:
+      - Java (JDK 17) </br>
+      
     ```bash
-    # Pré-Requisito: Java (JDK 17)
+   
     # Clonar repositório - SSH
     git clone git@github.com:marcosrebelo97/dslist-backend.git
     
     # Acessar pasta do projeto back-end
     cd dslist-backend
+
+    # Instalar as dependências do Maven
+    mvn install
     
     # Executar o projeto
     ./mvnw spring-boot:run
@@ -59,7 +65,6 @@
   - Spring Boot Web
   - Maven
   - H2 Database
-  - PostgreSQL
   - Ambiente local com Docker Compose
   - Processo de deploy: CI/CD
   - Implantação Back-end: Railway
