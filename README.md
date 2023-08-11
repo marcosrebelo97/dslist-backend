@@ -67,7 +67,7 @@
   - H2 Database
   - Ambiente local com Docker Compose
   - Processo de deploy: CI/CD
-  - Implantação Back-end: Railway
+  - Implantação Back-end: Railway | Disponível em: [dslist-backend-production-9a69.up.railway.app](dslist-backend-production-9a69.up.railway.app)
   - Implantação Banco de Dados: PostgreSQL | DBeaver
 
 ___
